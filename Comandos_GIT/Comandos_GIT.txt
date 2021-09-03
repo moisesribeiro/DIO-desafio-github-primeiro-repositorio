@@ -1,0 +1,16 @@
+Criar uma nova branch
+git checkout -b “nova branch”
+
+Alterar entre as branches
+git checkout master
+
+Voltar para a branch anterior
+git checkout -
+
+Remover uma branch local
+git branch -d branch
+
+Remover a branch remota
+git push --delete origin branch
+git branch
+Verificar todas as branches existentes
