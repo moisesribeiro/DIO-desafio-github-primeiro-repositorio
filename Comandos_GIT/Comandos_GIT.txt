@@ -13,4 +13,5 @@ git branch -d branch
 Remover a branch remota
 git push --delete origin branch
 git branch
+
 Verificar todas as branches existentes
